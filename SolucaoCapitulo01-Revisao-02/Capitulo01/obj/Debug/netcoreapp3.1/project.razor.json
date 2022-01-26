@@ -14432,6 +14432,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\joao.pereira\\Documents\\development\\ASPNETCoreMVC\\SolucaoCapitulo01-Revisao-02\\Capitulo01\\Views\\Instituicao\\Index.cshtml",
+      "TargetPath": "Views\\Instituicao\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\joao.pereira\\Documents\\development\\ASPNETCoreMVC\\SolucaoCapitulo01-Revisao-02\\Capitulo01\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
